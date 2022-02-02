@@ -1,0 +1,10 @@
+/.idea
+/config
+/db
+/data
+/logs
+/downloads
+/Profile
+/stores
+/*.iml
+/SuperWorker.vmoptions
