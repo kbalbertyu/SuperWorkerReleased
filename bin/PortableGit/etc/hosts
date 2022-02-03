@@ -1,0 +1,160 @@
+﻿# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+# 102.54.94.97 rhino.acme.com # source server
+# 38.25.63.10 x.acme.com # x client host
+
+# localhost name resolution is handled within DNS itself.
+127.0.0.1 localhost
+::1 localhost ip6-localhost ip6-loopback
+
+# Albert Yu
+172.28.128.24 albertyu.com
+172.28.128.24 dev.albertyu.com
+
+# 47.116.50.52 businesstimes.cn
+
+# 172.28.128.24 www.businesstimes.cn
+# 172.28.128.24 admin.businesstimes.cn
+# 172.28.128.24 stat.businesstimes.cn
+# 172.28.128.24 cdn.businesstimes.cn
+# 172.28.128.24 gimg.businesstimes.cn
+# 172.28.128.24 data.businesstimes.cn
+
+
+#172.28.128.24 leadingnews.cn
+172.28.128.24 www.leadingnews.cn
+172.28.128.24 asset.leadingnews.cn
+#172.28.128.24 cdn.leadingnews.cn
+# 172.28.128.24 leadingnews.com.cn
+# 172.28.128.24 en.leadingnews.cn
+172.28.128.24 weixin-pay.com
+
+# Net BTCN
+#172.28.128.24 www.businesstimeschina.com
+#172.28.128.24 stat.businesstimeschina.com
+#172.28.128.24 asset.businesstimeschina.com
+#172.28.128.24 data.businesstimeschina.com
+#172.28.128.24 admin.businesstimeschina.com
+#172.28.128.24 listing.businesstimes.com.cn
+172.28.128.24 localdb.businesstimeschina.com
+#34.92.191.74 db.businesstimeschina.com
+
+# BTCN Beijing
+#172.28.128.24 www.businesstimeschina.com.cn
+#172.28.128.24 assets.businesstimeschina.com.cn
+#172.28.128.24 data.businesstimeschina.com.cn
+#172.28.128.24 admin.businesstimeschina.com.cn
+#172.28.128.24 listing.businesstimes.com.cn
+172.28.128.24 localdb.businesstimeschina.com.cn
+172.28.128.24 app.businesstimeschina.com.cn
+
+# Guoao2020 Dev
+#172.28.128.24 guoao2020.cn
+172.28.128.24 v2.guoao2020.com
+#172.28.128.24 test.guoao2020.com
+#172.28.128.24 testen.guoao2020.com
+
+172.28.128.24 www.guoao2020.com
+172.28.128.24 en.guoao2020.com
+#172.28.128.24 front.guoao2020.com
+172.28.128.24 asset.guoao2020.com
+127.0.0.1 shop.guoao2020.com
+
+# KPop
+#172.28.128.24 admin.kpopstarz.cn
+#172.28.128.24 data.kpopstarz.cn
+#172.28.128.24 www.kpopstarz.cn
+#172.28.128.24 wx.kpopstarz.cn
+#172.28.128.24 stat.kpopstarz.cn
+#172.28.128.24 kpopstarz.cn
+#35.247.127.118 chinese.kpopstarz.com
+#172.28.128.24 www.kpopstarz.com.cn
+#172.28.128.24 admin.kpopstarz.com.cn
+#172.28.128.24 asset.kpopstarz.cn
+#172.28.128.24 assets.kpopstarz.cn
+
+# Swoft
+#172.28.128.23 api.kpopstarz.cn
+172.28.128.24 api.kpopstarz.cn
+172.28.128.5 django.kpopstarz.cn
+172.28.128.5 test.kpopstarz.cn
+
+
+# BTJP
+#172.28.128.24 www.businesstimesjp.jp
+#172.28.128.24 cn.businesstimesjp.jp
+#172.28.128.24 asset.businesstimesjp.jp
+#172.28.128.24 admin.businesstimesjp.jp
+#172.28.128.24 data.businesstimesjp.jp
+#172.28.128.24 stat.businesstimesjp.jp
+
+
+# HK
+# 172.28.128.24 businesstimes.com.hk
+# 172.28.128.24 www.businesstimes.com.hk
+# 172.28.128.24 admin.businesstimes.com.hk
+# 172.28.128.24 stat.businesstimes.com.hk
+# 172.28.128.24 asset.businesstimes.com.hk
+
+# MA
+#172.28.128.24 www.businesstimes.com.my
+#172.28.128.24 www.businesstimes.my
+#172.28.128.24 businesstimes.com.my
+#172.28.128.24 businesstimes.my
+#172.28.128.24 admin.businesstimes.com.my
+#172.28.128.24 admin.businesstimes.my
+#172.28.128.24 asset.businesstimes.my
+#172.28.128.24 stat.businesstimes.my
+#172.28.128.24 data.businesstimes.my
+#172.28.128.24 image.businesstimes.my
+
+# OLS
+# 172.28.128.24 www.olschina.com.cn
+# 172.28.128.24 service.olschina.com.cn
+
+#172.28.128.9 listing.businesstimes.cn
+172.28.128.24 abcbroadcast.wganetwork.org
+
+127.0.0.1 cap.cyberlink.com
+127.0.0.1 activation.cyberlink.com
+
+192.229.173.207 w3schools.com
+192.229.173.207 www.w3schools.com
+
+# Adobe
+#127.0.0.1 lm.licenses.adobe.com
+#127.0.0.1 na2m-pr.licenses.adobe.com
+#127.0.0.1 practivate.adobe.com
+#127.0.0.1 activate.adobe.com
+#127.0.0.1 ereg.adobe.com
+#127.0.0.1 wip.adobe.com
+#127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na2m-pr.licenses.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 wip.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+
+
+#13.224.164.50 bookflix.digital.scholastic.com
+# Added by Docker Desktop
+192.168.1.82 host.docker.internal
+192.168.1.82 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
