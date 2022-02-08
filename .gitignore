@@ -8,3 +8,5 @@
 /stores
 /*.iml
 /SuperWorker.vmoptions
+install.bat
+/tools
