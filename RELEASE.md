@@ -1,6 +1,23 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2022-12-09
+
+性质: Feature
+
+更新内容:
+1. Skip crawled seller check for asins buy from JP
+
+----------------------------------------------------------------------
+版本: 2.0-2022-12-08
+
+性质: Feature
+
+更新内容:
+1. Upgrade Keepa crawling functions, crawl and upload by single asin
+2. Upgrade Related asins crawling 
+
+----------------------------------------------------------------------
 版本: 1.0-2022-11-29
 
 性质: Feature
