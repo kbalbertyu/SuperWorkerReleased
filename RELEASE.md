@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2023-05-26
+版本: 2.0-2023-05-26-1
 
 性质: Feature
 
 更新内容:
 1. Improve AI Writer
-2. Add PDF Financial Statement resolver 
+2. Add PDF Financial Statement resolver
+3. Allow customizing MilvusDB params
 
 ----------------------------------------------------------------------
 版本: 2.0-2023-05-16
