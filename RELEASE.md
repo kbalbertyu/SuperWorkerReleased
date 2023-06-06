@@ -1,7 +1,17 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2023-06-05
+版本: 2.0-2023-06-06
+
+性质: Feature
+
+更新内容:
+1. Store latest report items in FinancialReportDownloader
+2. Resolve latest report items in PDSResolver
+3. Generate articles for latest reports in FinancialReportAnalyzer
+
+----------------------------------------------------------------------
+版本: 2.0-2023-06-05-2
 
 性质: Feature
 
