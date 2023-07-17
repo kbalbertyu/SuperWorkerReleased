@@ -1,6 +1,16 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2023-07-17
+
+性质: Feature
+
+更新内容:
+1. Implement Baidu Wenxin AI service
+2. Implement Xunfei Spark AI service
+3. Improve AIWriter performance and article quality
+
+----------------------------------------------------------------------
 版本: 2.0-2023-06-07
 
 性质: Feature
