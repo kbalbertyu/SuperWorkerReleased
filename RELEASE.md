@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2023-08-04-3
+版本: 2.0-2023-08-04-4
 
 性质: Feature
 
 更新内容:
 1. Optimize memory usage of Finance Report functions
 2. Replace SQLite with MYSQL in Keepa services
+3. Pass control panel options to Financial Report Analyzer
 
 ----------------------------------------------------------------------
 版本: 2.0-2023-08-02-1
