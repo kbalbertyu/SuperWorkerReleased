@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2023-08-09-8
+版本: 2.0-2023-08-09-9
 
 性质: Feature
 
 更新内容:
 1. Close needless drivers after used
 2. Use Multi-Threads in PDFResolver
+3. Use Multi-Threads in ReportEmbeddingsGenerator
 
 ----------------------------------------------------------------------
 版本: 2.0-2023-08-08-5
