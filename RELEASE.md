@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2023-10-06
+版本: 2.0-2023-10-06-2
 
 性质: Feature
 
@@ -10,6 +10,7 @@
 2. Launch ASIN info crawler
 3. Launch past reports downloading
 4. Fix report resolver multi threads bugs
+5. Fix bugs in Buybox Checker
 
 ----------------------------------------------------------------------
 版本: 2.0-2023-09-10
