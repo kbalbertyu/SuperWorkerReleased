@@ -1,6 +1,26 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2023-10-06
+
+性质: Feature
+
+更新内容:
+1. Launch AIWriter 2.0 with charts and extracted data
+2. Launch ASIN info crawler
+3. Launch past reports downloading
+4. Fix report resolver multi threads bugs
+
+----------------------------------------------------------------------
+版本: 2.0-2023-09-10
+
+性质: Feature
+
+更新内容:
+1. Improve Report Resolver
+2. Improve Report Embeddings Generator
+
+----------------------------------------------------------------------
 版本: 2.0-2023-08-29-2
 
 性质: Feature
