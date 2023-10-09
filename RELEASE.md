@@ -1,7 +1,16 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2023-10-08-6
+版本: 2.0-2023-10-09
+
+性质: Feature
+
+更新内容:
+1. Greatly improve AIWriter performance
+2. Improve AIWriter generating availability by automatically detect and fix errors 
+
+----------------------------------------------------------------------
+版本: 2.0-2023-10-08-7
 
 性质: BugFix
 
