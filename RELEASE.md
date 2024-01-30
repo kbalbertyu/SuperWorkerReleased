@@ -1,15 +1,25 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-01-15-8
+版本: 2.0-2024-01-30
 
 性质: Feature
 
 更新内容:
-1. Add legal monitor
+1. Add Legal Check service handler
+2. Add PubOpinion crawler and feed analyzer services
+3. Update panel message
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-01-11-8
+版本: 2.0-2024-01-19-1
+
+性质: Feature
+
+更新内容:
+1. Allow generate image and display on content panel
+
+----------------------------------------------------------------------
+版本: 2.0-2024-01-11-5
 
 性质: Feature
 
