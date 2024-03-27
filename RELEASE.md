@@ -1,12 +1,13 @@
 版本更新历史记录
 
-版本: 2.0-2024-02-03-27
+版本: 2.0-2024-02-03-27-1
 
 性质: Feature
 
 更新内容:
 1. Add messages for link crawler
 2. Decrease credits after created video job
+3. Fix link crawler bugs
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-02-03-26
