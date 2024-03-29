@@ -1,5 +1,12 @@
 版本更新历史记录
 
+版本: 2.0-2024-02-03-29
+
+性质: Feature
+
+更新内容:
+1. Implement letter functions for video
+
 版本: 2.0-2024-02-03-27-1
 
 性质: Feature
