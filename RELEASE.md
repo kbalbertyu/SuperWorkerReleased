@@ -1,12 +1,13 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-04-18
+版本: 2.0-2024-04-18-1
 
-性质: Feature
+性质: BugFix
 
 更新内容:
-1. Update image generating prompts in AIWriter
+1. Fix AI Writer param errors
+2. Update image generating prompts in AIWriter
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-04-17-2
