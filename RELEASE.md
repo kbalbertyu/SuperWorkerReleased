@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-04-19-4
+版本: 2.0-2024-04-19-5
 
 性质: Feature
 
@@ -9,6 +9,7 @@
 1. Update AI Panel
 2. Update default AI service for long context
 3. Update legal search keywords size
+4. Remove links from Weixin content for Link Crawler
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-04-18-5
