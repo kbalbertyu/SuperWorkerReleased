@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-07-16-2
+版本: 2.0-2024-07-16-3
 
 性质: Feature
 
 更新内容:
 1. Improve industry report functions
 2. Improve public opinion report functions
+3. Allow analyzing HK format financial reports
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-07-11-3
