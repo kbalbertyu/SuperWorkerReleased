@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-07-17
+版本: 2.0-2024-07-17-1
 
 性质: Feature
 
 更新内容:
 1. Improve AIWriter generating
 2. Allow HK format of financial report analyzing
+3. Use report summary data for WebAIWriter QA
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-07-16-5
