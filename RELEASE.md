@@ -1,12 +1,12 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-08-20-5
+版本: 2.0-2024-08-20-6
 
 性质: Feature
 
 更新内容:
-1. Improve PO comments generating: quality, video crawling, title determining
+1. Improve PO comments generating: quality, video upload/crawling, title determining
 2. Improve PO article generator
 3. Improve PO report outline
 
