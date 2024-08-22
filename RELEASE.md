@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-08-22-1
+版本: 2.0-2024-08-22-2
 
 性质: Feature
 
 更新内容:
 1. Add preferred outlines for PO Evaluate reports
 2. Fix concurrent jobs error in Proofreading reports embeddings
+3. Fix AIWriter bugs
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-08-20-6
