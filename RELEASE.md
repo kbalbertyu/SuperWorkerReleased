@@ -1,6 +1,16 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2024-08-23
+
+性质: Feature
+
+更新内容:
+1. Allow link crawling and video uploading for PO respond
+2. Improve PO respond prompts
+3. Apply summary functions to PO repsond
+
+----------------------------------------------------------------------
 版本: 2.0-2024-08-22-2
 
 性质: Feature
