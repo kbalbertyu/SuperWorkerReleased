@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-08-26-5
+版本: 2.0-2024-08-26-6
 
 性质: BugFix
 
@@ -9,6 +9,7 @@
 1. Fix AIWriter bugs
 2. Fix PO report outline template bugs
 3. Add retry in PO report object detection
+4. Fix AI result clearing bugs
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-08-24
