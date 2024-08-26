@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-08-26-7
+版本: 2.0-2024-08-26-8
 
 性质: BugFix
 
@@ -11,6 +11,7 @@
 3. Add retry in PO report object detection
 4. Fix AI result clearing bugs
 5. Save section filtered data
+6. Improve object detection in PO reports
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-08-24
