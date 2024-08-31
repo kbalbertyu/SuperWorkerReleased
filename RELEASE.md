@@ -1,13 +1,13 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-08-30-3
+版本: 2.0-2024-08-30-4
 
 性质: Feature
 
 更新内容:
 1. Improve PO report functions
-2. Fix line break errors in report docx file  generating
+2. Fix line break errors in report docx file generating
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-08-29-2
