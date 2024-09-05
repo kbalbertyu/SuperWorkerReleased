@@ -1,13 +1,15 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-09-05-2
+版本: 2.0-2024-09-05-3
 
 性质: Feature
 
 更新内容:
 1. Append links to merged data for reports
 2. Add outline instructions to PO report
+3. Remove links from report
+4. Fix date range filtering bugs in searching
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-09-03-4
