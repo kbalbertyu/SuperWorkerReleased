@@ -8,6 +8,7 @@
 更新内容:
 1. Fix concurrent services bugs
 2. Add multi chat to AI service
+3. Add clear button to EasyAI panel
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-09-08
