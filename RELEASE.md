@@ -1,13 +1,15 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-09-14-2
+版本: 2.0-2024-09-14-4
 
 性质: Feature
 
 更新内容:
 1. Implement links crawling from requirements
 2. Update report search keywords generator
+3. Fix report search bugs
+4. Fix date text parsing bugs
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-09-13-5
