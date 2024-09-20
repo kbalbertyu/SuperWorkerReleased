@@ -1,6 +1,17 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2024-09-20
+
+性质: Feature
+
+更新内容:
+1. Add target of rights protection to legal check job
+2. Update report links handling for report search
+3. Implement Kimi search
+4. Add Kimi auto model
+
+----------------------------------------------------------------------
 版本: 2.0-2024-09-14-5
 
 性质: Feature
