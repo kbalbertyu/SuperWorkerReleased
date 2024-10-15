@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-10-14-4
+版本: 2.0-2024-10-14-5
 
 性质: BugFix
 
@@ -9,6 +9,7 @@
 1. Fix links crawling errors for report services
 2. Fix Wenxin search result parsing bugs
 3. Decrease report section words limits
+4. Fix blank screen bugs for ChromeDriver v129 headless
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-10-12
