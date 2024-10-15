@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-10-14-2
+版本: 2.0-2024-10-14-3
 
 性质: BugFix
 
 更新内容:
 1. Fix links crawling errors for report services
 2. Fix Wenxin search result parsing bugs
+3. Decrease report section words limits
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-10-12
