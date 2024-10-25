@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-10-24-2
+版本: 2.0-2024-10-24-3
 
 性质: BugFix
 
@@ -9,6 +9,7 @@
 1. Fix page crawling timeout error
 2. Fix video url parsing error in link crawler
 3. Support video uploading in gov legal check
+4. Update prompts for predict reports
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-10-22-8
