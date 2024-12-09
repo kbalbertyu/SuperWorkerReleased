@@ -1,31 +1,13 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2024-11-30-2
+版本: 2.0-2024-12-09
 
 性质: Feature
 
 更新内容:
-1. Optimize time and cost for VIP reports
-2. Skip retry when report reference fails
-
-----------------------------------------------------------------------
-版本: 2.0-2024-11-28-1
-
-性质: BugFix
-
-更新内容:
-1. Fix PO article generating bugs
-2. Use custom model for vip user on only section generating
-
-----------------------------------------------------------------------
-版本: 2.0-2024-11-27-4
-
-性质: Feature
-
-更新内容:
-1. Update po report functions
-2. Increase words limit for reports
+1. Add assistants to reports
+2. Update report functions
 
 ----------------------------------------------------------------------
 版本: 2.0-2024-11-26
