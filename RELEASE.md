@@ -1,6 +1,16 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2024-12-12-1
+
+性质: BugFix
+
+更新内容:
+1. Fix concurrent service status control bugs
+2. Fix PO feeds topic keywords generating bugs
+3. Implement QuickReport generating
+
+----------------------------------------------------------------------
 版本: 2.0-2024-12-11-8
 
 性质: BugFix
