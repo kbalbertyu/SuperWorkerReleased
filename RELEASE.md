@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2025-01-17-3
+版本: 2.0-2025-01-17-4
 
 性质: Feature
 
@@ -9,6 +9,7 @@
 1. Improve po monitoring services
 2. Fix report reference generating bug
 3. Update industry report prompts
+4. Remove auto words limit from reports
 
 ----------------------------------------------------------------------
 版本: 2.0-2025-01-08
