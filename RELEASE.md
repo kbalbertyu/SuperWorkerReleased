@@ -1,92 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2025-02-14-1
+版本: 2.0-2025-02-19
 
 性质: Feature
 
 更新内容:
-1. Add Special reports generating
-
-----------------------------------------------------------------------
-版本: 2.0-2025-02-12-2
-
-性质: BugFix
-
-更新内容:
-1. Save report category type
-
-----------------------------------------------------------------------
-版本: 2.0-2025-02-11-1
-
-性质: Feature
-
-更新内容:
-1. Update po monitor functions
-
-----------------------------------------------------------------------
-版本: 2.0-2025-02-10-1
-
-性质: Feature
-
-更新内容:
-1. Update DeepSeek API
-2. Increase wait time in Sina PO feeds crawling
-
-----------------------------------------------------------------------
-版本: 2.0-2025-02-07-2
-
-性质: Feature
-
-更新内容:
-1. Update cluster report content format
-2. Fix link crawler bugs
-
-----------------------------------------------------------------------
-版本: 2.0-2025-02-06
-
-性质: Feature
-
-更新内容:
-1. Add DeepSeek models with Doubao
-2. Upgrade po monitoring services
-3. Fix bugs
-
-----------------------------------------------------------------------
-版本: 2.0-2025-01-30-3
-
-性质: Feature
-
-更新内容:
-1. Allow configurable order start/end ago day for gerpgo
-
-----------------------------------------------------------------------
-版本: 2.0-2025-01-23-4
-
-性质: Feature
-
-更新内容:
-1. Add AI models
-2. Fix json parsing bugs
-
-----------------------------------------------------------------------
-版本: 2.0-2025-01-18-1
-
-性质: Feature
-
-更新内容:
-1. Allow report section regenerating
-
-----------------------------------------------------------------------
-版本: 2.0-2025-01-17-6
-
-性质: Feature
-
-更新内容:
-1. Improve po monitoring services
-2. Fix report reference generating bug
-3. Update industry report prompts
-4. Remove auto words limit from reports
+1. Implement services in QuickReportGenerator
+2. Introduce more DeepSeek services
+3. Fix general bugs
 
 ----------------------------------------------------------------------
 版本: 2.0-2025-01-08
