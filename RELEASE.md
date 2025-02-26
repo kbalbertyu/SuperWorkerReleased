@@ -1,6 +1,17 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2025-02-26
+
+性质: Feature
+
+更新内容:
+1. Upgrade POFeed report generator
+2. Fix LinkCrawler bugs
+3. Fix QuickReportGenerator bugs
+4. Fix report reference bugs
+
+----------------------------------------------------------------------
 版本: 2.0-2025-02-24-6
 
 性质: Feature
