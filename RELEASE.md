@@ -1,6 +1,17 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2025-03-04
+
+性质: Feature
+
+更新内容:
+1. Introduce Xiaoying feeds stat for PO reports
+2. Add preview edition for reports
+3. Add Xiaoying web stat data crawling
+4. Fix general bugs
+
+----------------------------------------------------------------------
 版本: 2.0-2025-02-26-2
 
 性质: Feature
