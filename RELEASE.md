@@ -1,7 +1,7 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2025-03-04-1
+版本: 2.0-2025-03-04-2
 
 性质: Feature
 
@@ -11,6 +11,7 @@
 3. Add Xiaoying web stat data crawling
 4. Fix general bugs
 5. Add switch option for reports to use feeds stat data
+6. Fix images from generated report content
 
 ----------------------------------------------------------------------
 版本: 2.0-2025-02-26-2
