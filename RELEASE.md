@@ -1,6 +1,18 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
+版本: 2.0-2025-03-25
+
+性质: BugFix
+
+更新内容:
+1. Fix charts generating bugs
+2. Fix Fix Xiaoying feed stats crawling and analyzing bugs
+3. Update po feeds analyzing
+4. Fix Xiaoying API bugs
+5. Add Google search engine
+
+----------------------------------------------------------------------
 版本: 2.0-2025-03-14
 
 性质: BugFix
