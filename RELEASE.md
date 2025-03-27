@@ -1,13 +1,14 @@
 版本更新历史记录
 
 ----------------------------------------------------------------------
-版本: 2.0-2025-03-27
+版本: 2.0-2025-03-27-1
 
 性质: Feature
 
 更新内容:
 1. Upgrade PO monitoring services
 2. Allow analyzing links from requirement
+3. Skip capturing screenshots for video
 
 ----------------------------------------------------------------------
 版本: 2.0-2025-03-26
